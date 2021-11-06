@@ -1,7 +1,5 @@
 # NFTAuction
 
-浙江大学区块链课程大作业
-
 ## 运行代码
 
 ### 下载truffle
